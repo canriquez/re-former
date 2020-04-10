@@ -2,9 +2,6 @@
 
 This is part of the Forms Project in The Odin Project’s Ruby on Rails Curriculum. Find it at http://www.theodinproject.com
 
-## Live link
-
-[live link](https://banana-cake-71412.herokuapp.com/)
 
 ## Enviroment set up requirements
 
