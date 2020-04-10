@@ -8,7 +8,7 @@ This is part of the Forms Project in The Odin Project’s Ruby on Rails Curricul
 
 ## Enviroment set up requirements
 
-To run this project, you need ruby installed in your enviroment.
+To run this project, you need ruby installed in your enviroment.rmail
 Run the following commend:
 
 ```
@@ -16,7 +16,7 @@ $ ruby -v
 ```
 
 You should a have a result similar to this:
-
+s
 ```
 ruby 2.6.5p114 (2019-10-01 revision 67812) [x86_64-linux]
 ```
