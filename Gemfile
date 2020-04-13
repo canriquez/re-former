@@ -51,7 +51,6 @@ group :development do
   gem 'hirb'
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
-  gem "sqlite3"
 end
 
 group :test do
@@ -62,8 +61,8 @@ group :test do
   gem 'chromedriver-helper'
 end
 
-group :production do 
-  gem 'pg', '0.20.0'       #gem to use in production environment
+group :production do
+  gem 'pg', '0.20.0' # gem to use in production environment
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
